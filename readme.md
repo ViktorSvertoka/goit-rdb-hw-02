@@ -70,3 +70,13 @@
 - 💡 Результат має бути у вигляді скриншота розгорнутої схеми у Workbench.
 
 ![Result](./assets/result.png)
+
+#### Результат виконаного ДЗ
+
+![Results](./images/01-eer-diagram.png)
+
+![Results](./images/02-sql-script.png)
+
+![Results](./images/03-schemas.png)
+
+![Results](./images/04-normalized-tables.png)
